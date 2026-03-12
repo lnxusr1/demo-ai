@@ -1,0 +1,87 @@
+{
+    "title": "Installing a 2\" Skyjacker Lift Kit",
+    "summary": "The video documents an amateur Jeep enthusiast installing a 2-inch Skyjacker lift kit on a Jeep Willy's JK. It details the installation process, the needed tools, and additional upgrades such as side steps and exhaust extension kits. The creator emphasizes tips, common pitfalls, and recommendations for safer DIY installs. Post-install observations and lessons learned are also shared, focusing on practical advice and encouragement for novice Jeep modders.",
+    "intro": "Curious about lifting your Jeep but new to DIY mods? Watch as an amateur tackles a 2\" Skyjacker lift kit on a Jeep Willy's JK, sharing all the key tips and pitfalls!",
+    "main_points": [
+        "Amateur installation of a 2\" Skyjacker lift kit on a Jeep Willy's JK.",
+        "Detailed review of parts, tools, and preparation needed.",
+        "Step-by-step troubleshooting and common challenges highlighted.",
+        "Extra upgrades like Rugged Ridge exhaust extension and Smittybilt side steps discussed.",
+        "Safety tips and advice for novice DIY auto enthusiasts."
+    ],
+    "target_audience": {
+        "age_range": "18-45",
+        "demographics": "Jeep owners, off-road enthusiasts, DIY auto modders, automotive hobbyists"
+    },
+    "parts": [
+        {
+            "part_name": "Skyjacker 2-inch lift kit",
+            "description": "Spring spacer lift kit including front and rear coil spring spacers, shocks, bump stops, and brackets.",
+            "url": ""
+        },
+        {
+            "part_name": "Rugged Ridge exhaust extension kit",
+            "description": "Kit used to extend exhaust clearance following lift installation and avoid exhaust contact with drive shaft housing.",
+            "url": ""
+        },
+        {
+            "part_name": "Smittybilt tubular side steps",
+            "description": "Aftermarket side steps to aid entry following increased lift height.",
+            "url": ""
+        },
+        {
+            "part_name": "Replacement shock bushings",
+            "description": "Bushings required for top mount of rear shocks, pressing tool recommended.",
+            "url": ""
+        },
+        {
+            "part_name": "Jack stands and hydraulic jacks",
+            "description": "Essential tools for lifting vehicle and ensuring safe access to suspension.",
+            "url": ""
+        },
+        {
+            "part_name": "Brake line extensions",
+            "description": "Upgrades for stock brake lines to ensure slack and safety at full suspension travel.",
+            "url": ""
+        }
+    ],
+    "citations": [
+        {
+            "type": "other",
+            "author": "Skyjacker",
+            "title": "Skyjacker Installation Instructions",
+            "url": ""
+        },
+        {
+            "type": "other",
+            "author": "Teraflex",
+            "title": "Teraflex Leveling Kit Install Guide",
+            "url": ""
+        }
+    ],
+    "tags": [
+        "jeep",
+        "DIY",
+        "lift kit",
+        "Skyjacker",
+        "JK Wrangler",
+        "off-road",
+        "suspension",
+        "automotive",
+        "beginner",
+        "tutorial",
+        "vehicle modification",
+        "tools"
+    ],
+    "warnings": [
+        "Video describes potentially unsafe jack stand usage and advises viewers to prioritize proper safety equipment."
+    ],
+    "risks": [
+        "Incorrect jack stand use may cause personal injury or vehicle damage.",
+        "Improper brake line management can result in brake failure.",
+        "Attempting bushing press-in without proper tools may damage parts."
+    ],
+    "tone": "enthusiastic, encouraging, informative",
+    "content_density": 7,
+    "file": "blog_post.mp3"
+}

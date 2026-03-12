@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Formatted Document</title>
+  <style>
+    :root {
+      --bg: #0b1220;
+      --panel: #0f1a2d;
+      --text: #e6edf7;
+      --muted: #b8c2d6;
+      --rule: #22324f;
+      --accent: #7aa2ff;
+    }
+    body {
+      margin: 0;
+      background: radial-gradient(1200px 700px at 20% 10%, #13233f 0%, var(--bg) 55%) fixed;
+      color: var(--text);
+      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 40px 20px 64px;
+    }
+    .card {
+      background: linear-gradient(180deg, rgba(255,255,255,0.04), rgba(255,255,255,0.02));
+      border: 1px solid rgba(255,255,255,0.08);
+      border-radius: 14px;
+      padding: 28px 24px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.35);
+    }
+    h1, h2 {
+      margin: 0 0 14px 0;
+      line-height: 1.2;
+      letter-spacing: 0.2px;
+    }
+    h1 {
+      font-size: 30px;
+      color: var(--text);
+    }
+    h2 {
+      font-size: 18px;
+      color: var(--accent);
+      text-transform: none;
+    }
+    p {
+      margin: 0 0 14px 0;
+      color: var(--muted);
+      font-size: 16px;
+    }
+    ul, ol {
+      margin: 10px 0 18px 22px;
+      padding: 0;
+      color: var(--muted);
+    }
+    li {
+      margin: 8px 0;
+    }
+    hr {
+      border: 0;
+      height: 1px;
+      background: linear-gradient(90deg, transparent, var(--rule), transparent);
+      margin: 22px 0;
+    }
+    .section {
+      margin-top: 8px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="card">
+      <h1 class="title">Section Header</h1>
+
+      <p class="body">This is a short paragraph of placeholder text intended to demonstrate simple document structure. It shows how a standard paragraph appears under a header and how text flows across multiple sentences. The content itself is not important; it simply illustrates formatting.</p>
+
+      <p class="body">This is a second paragraph under the same header. It continues the example by showing spacing between paragraphs and consistent text structure in a typical document.</p>
+
+      <hr class="rule">
+
+      <div class="section">
+        <h2 class="subtitle">Bullet List Example</h2>
+        <ul class="list">
+          <li>First bullet point demonstrating list formatting</li>
+          <li>Second bullet point with a brief line of text</li>
+          <li>Third bullet point showing how items appear in sequence</li>
+          <li>Fourth bullet point for additional structure</li>
+        </ul>
+      </div>
+
+      <hr class="rule">
+
+      <div class="section">
+        <h2 class="subtitle">Numbered List Example</h2>
+        <ol class="list">
+          <li>First numbered item in a sequential list</li>
+          <li>Second numbered item with a short description</li>
+          <li>Third numbered item continuing the pattern</li>
+          <li>Fourth numbered item completing the example</li>
+        </ol>
+      </div>
+
+      <hr class="rule">
+
+      <h1 class="title">Another Section Header</h1>
+      <p class="body">This final paragraph provides additional body text under a second header. It demonstrates how documents can be organized into multiple sections while maintaining consistent formatting for headers, paragraphs, and lists.</p>
+    </div>
+  </div>
+</body>
+</html>
